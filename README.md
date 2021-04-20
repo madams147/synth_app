@@ -1,0 +1,18 @@
+# synth_app
+- stereo output (default windows device)
+- sub + 2 osc 
+    - waveform selection (triangle, sawtooth, square with pwm)
+    - level
+    - period
+        - octave
+        - semitone
+        - fine tune
+    - ADSR
+    - modular to add more components in the future
+- components
+    - filter
+    - distortion
+    - EQ
+    - delay
+    - reverb
+-component routing
